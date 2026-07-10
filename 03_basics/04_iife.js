@@ -8,4 +8,6 @@
 
 ((name) => {
     console.log(`DB Connected Two ${name}`);
-})("Vansh")
+})("Vansh");
+
+//semi colon is a must after execution parentheses 
